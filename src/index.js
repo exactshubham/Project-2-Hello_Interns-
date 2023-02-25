@@ -7,7 +7,7 @@ const multer=require('multer')
 app.use(express.json());
 app.use(multer().any())
 
-mongoose.connect("mongodb+srv://yashwantr_14:Yashu_1410@cluster0.uic9809.mongodb.net/group40Database")
+mongoose.connect("mongodb+srv://ShubhamChaturvedi:9555047172@mongodbwithshubham.z3dowao.mongodb.net/test")
 .then(function(){
     console.log("MongoDb is Connected")
 })
