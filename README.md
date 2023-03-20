@@ -1,6 +1,6 @@
 # Project - 2
 
-## Open to Intern Project Requirement
+## Hello_Interns Project Requirement
 
 ### Key points
 
